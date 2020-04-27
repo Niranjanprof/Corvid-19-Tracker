@@ -24,6 +24,7 @@ pip install -r requirements.txt
 |To get Available Country list |      [provincelist.py](Covid-Tracker/provincelist.py)|``` python3 provincelist.py ```|
 |Country list |      [country.txt](Covid-Tracker/country.txt)||
 |Province list |      [province.txt](Covid-Tracker/province.txt)||
+|To Convert json to dictionary | [jsontodict.py](Covid-Tracker/jsontodict.py)||
 
 
 ---
@@ -54,3 +55,7 @@ The **[Repo](https://github.com/ExpDev07/coronavirus-tracker-api)** api provider
 ,Ajith PM
 
 Licensed under the [GNU GPL](LICENSE)
+
+---
+
+Mention This [Repo](https://github.com/Niranjanprof/Covid-19-Tracker) while you use this in your projects :)
