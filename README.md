@@ -10,7 +10,7 @@ This Version is included with Province Filter
 ## Set-Up
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Working
