@@ -53,4 +53,4 @@ The **[Repo](https://github.com/ExpDev07/coronavirus-tracker-api)** api provider
 © Niranjan B 
 ,Ajith PM
 
-Licensed under the [MIT License](LICENSE)
+Licensed under the [GNU GPL](LICENSE)
