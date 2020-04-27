@@ -35,7 +35,9 @@ pip install -r requirements.txt
 Line graphs are plotted using matplotlib module
 According to Provinces and Country Coresponding Graphs are produced
 
-![No. of Confirmes Cases](https://github.com/Niranjanprof/Covid-19-Tracker/blob/master/rsc/1%20(2).png)![No. of Death Cases](https://github.com/Niranjanprof/Covid-19-Tracker/blob/master/rsc/1%20(1).png)
+|![No. of Confirmed Cases](https://github.com/Niranjanprof/Covid-19-Tracker/blob/master/rsc/1%20(2).png)|![No. of Death Cases](https://github.com/Niranjanprof/Covid-19-Tracker/blob/master/rsc/1%20(1).png)|
+|------------------------|-------------------------|
+|No. of Confirmed Cases|No. of Death Cases|
 
 ---
 
