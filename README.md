@@ -1,7 +1,7 @@
-# Corvid Tracker 
+# Covid Tracker 
 
 ___
-The Python Code for getting Track of Novel Corvid Pandermic growth in all over the world
+The Python Code for getting Track of Novel Covid Pandermic growth in all over the world
 
 This Version is included with Province Filter
 
@@ -17,13 +17,13 @@ pip install -r requirements.txt
 
 | Result | File | command|
 |--------|------|--------|
-|To get latest Global updates |      latest.py|``` python3 latest.py ```|
-|To get Updates based on Country | country.py|``` python3 country.py ```|
-|To get Updates based on Provinces | provinces.py|``` python3 provinces.py ```|
-|To get Available Country list |      countrylist.py|``` python3 countrylist.py ```|
-|To get Available Country list |      provincelist.py|``` python3 provincelist.py ```|
-|Country list |      country.txt||
-|Province list |      province.txt||
+|To get latest Global updates |      [latest.py](Covid-Tracker/latest.py)|``` python3 latest.py ```|
+|To get Updates based on Country | [country.py](Covid-Tracker/country.py)|``` python3 country.py ```|
+|To get Updates based on Provinces | [provinces.py](Covid-Tracker/provinces.py)|``` python3 provinces.py ```|
+|To get Available Country list |      [countrylist.py](Covid-Tracker/countrylist.py)|``` python3 countrylist.py ```|
+|To get Available Country list |      [provincelist.py](Covid-Tracker/provincelist.py)|``` python3 provincelist.py ```|
+|Country list |      [country.txt](Covid-Tracker/country.txt)||
+|Province list |      [province.txt](Covid-Tracker/province.txt)||
 
 
 ---
