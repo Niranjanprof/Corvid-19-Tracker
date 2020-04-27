@@ -13,7 +13,18 @@ This Version is included with Province Filter
 pip install requirements.txt
 ```
 
-To Run 
+## Working
+
+| Result | File | command|
+|--------|------|--------|
+|To get latest Global updates |      latest.py|``` python3 latest.py ```|
+|To get Updates based on Country | country.py|``` python3 country.py ```|
+|To get Updates based on Provinces | provinces.py|``` python3 provinces.py ```|
+|To get Available Country list |      countrylist.py|``` python3 countrylist.py ```|
+|To get Available Country list |      provincelist.py|``` python3 provincelist.py ```|
+|Country list |      country.txt||
+|Province list |      province.txt||
+
 
 ---
 ## API
