@@ -22,7 +22,7 @@ pip install -r requirements.txt
 |To get Updates based on Country | [country.py](Covid-Tracker/country.py)|``` python3 country.py ```|
 |To get Updates based on Provinces | [provinces.py](Covid-Tracker/provinces.py)|``` python3 provinces.py ```|
 |To get Available Country list |      [countrylist.py](Covid-Tracker/countrylist.py)|``` python3 countrylist.py ```|
-|To get Available Country list |      [provincelist.py](Covid-Tracker/provincelist.py)|``` python3 provincelist.py ```|
+|To get Available Province list |      [provincelist.py](Covid-Tracker/provincelist.py)|``` python3 provincelist.py ```|
 |Country list |      [country.txt](Covid-Tracker/country.txt)||
 |Province list |      [province.txt](Covid-Tracker/province.txt)||
 |To Convert json to dictionary | [jsontodict.py](Covid-Tracker/jsontodict.py)||
