@@ -1,7 +1,7 @@
-# Corvid Tracker 
+# Covid Tracker 
 
 ___
-The Python Code for getting Track of Novel Corvid Pandermic growth in all over the world
+The Python Code for getting Track of Novel Covid Pandermic growth in all over the world
 
 This Version is included with Province Filter
 
@@ -17,13 +17,14 @@ pip install -r requirements.txt
 
 | Result | File | command|
 |--------|------|--------|
-|To get latest Global updates |      latest.py|``` python3 latest.py ```|
-|To get Updates based on Country | country.py|``` python3 country.py ```|
-|To get Updates based on Provinces | provinces.py|``` python3 provinces.py ```|
-|To get Available Country list |      countrylist.py|``` python3 countrylist.py ```|
-|To get Available Country list |      provincelist.py|``` python3 provincelist.py ```|
-|Country list |      country.txt||
-|Province list |      province.txt||
+|To get latest Global updates |      [latest.py](Covid-Tracker/latest.py)|``` python3 latest.py ```|
+|To get Updates based on Country | [country.py](Covid-Tracker/country.py)|``` python3 country.py ```|
+|To get Updates based on Provinces | [provinces.py](Covid-Tracker/provinces.py)|``` python3 provinces.py ```|
+|To get Available Country list |      [countrylist.py](Covid-Tracker/countrylist.py)|``` python3 countrylist.py ```|
+|To get Available Country list |      [provincelist.py](Covid-Tracker/provincelist.py)|``` python3 provincelist.py ```|
+|Country list |      [country.txt](Covid-Tracker/country.txt)||
+|Province list |      [province.txt](Covid-Tracker/province.txt)||
+|To Convert json to dictionary | [jsontodict.py](Covid-Tracker/jsontodict.py)||
 
 
 ---
@@ -53,8 +54,8 @@ The **[Repo](https://github.com/ExpDev07/coronavirus-tracker-api)** api provider
 © Niranjan B 
 ,Ajith PM
 
-<<<<<<< HEAD
 Licensed under the [GNU GPL](LICENSE)
-=======
-Licensed under the [GNU GPL](LICENSE)
->>>>>>> b8694b45c80a44234c7826563f088f6e49903c58
+
+---
+
+Mention This [Repo](https://github.com/Niranjanprof/Covid-19-Tracker) while you use this in your projects :)
