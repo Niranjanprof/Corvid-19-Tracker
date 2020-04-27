@@ -1,17 +1,28 @@
 # Corvid Tracker 
 
-___________________________________________________________
-
+___
 The Python Code for getting Track of Novel Corvid Pandermic growth in all over the world
 
 This Version is included with Province Filter
 
+---
 
+## Set-Up
+
+```bash
+pip install requirements.txt
+```
+
+To Run 
+
+---
 ## API
 
-The [API](https://coronavirus-tracker-api.herokuapp.com/v2/locations) we used
+The **[API](https://coronavirus-tracker-api.herokuapp.com/v2/locations)** we used
 
-The [Repo](https://github.com/ExpDev07/coronavirus-tracker-api) api provider
+The **[Repo](https://github.com/ExpDev07/coronavirus-tracker-api)** api provider
+
+---
 
 ## Authors
 
