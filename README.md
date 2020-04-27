@@ -18,6 +18,7 @@ pip install -r requirements.txt
 | Result | File | command|
 |--------|------|--------|
 |To get latest Global updates |      [latest.py](Covid-Tracker/latest.py)|``` python3 latest.py ```|
+|To get Graphs on Result |      [timeline.py](Covid-Tracker/timeline.py)|``` python3 timeline.py ```|
 |To get Updates based on Country | [country.py](Covid-Tracker/country.py)|``` python3 country.py ```|
 |To get Updates based on Provinces | [provinces.py](Covid-Tracker/provinces.py)|``` python3 provinces.py ```|
 |To get Available Country list |      [countrylist.py](Covid-Tracker/countrylist.py)|``` python3 countrylist.py ```|
@@ -28,6 +29,17 @@ pip install -r requirements.txt
 
 
 ---
+
+## Graph Plotting
+
+Line graphs are plotted using matplotlib module
+According to Provinces and Country Coresponding Graphs are produced
+
+[](rsc/1(2).png)[](rsc/1(1).png)
+
+
+---
+
 ## API
 
 The **[API](https://coronavirus-tracker-api.herokuapp.com/v2/locations)** we used
