@@ -1,7 +1,7 @@
 # Covid Tracker 
 
 ___
-The Python Code for getting Track of Novel Covid Pandermic growth in all over the world
+The Python Code for getting Track of Novel Covid Pandemic growth in all over the world
 
 This Version is included with Province Filter
 
