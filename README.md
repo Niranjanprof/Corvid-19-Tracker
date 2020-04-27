@@ -44,3 +44,13 @@ The **[Repo](https://github.com/ExpDev07/coronavirus-tracker-api)** api provider
     <td align="center"><a href="https://github.com/AJITH-klepsydra"><img src="https://avatars3.githubusercontent.com/u/62293152?s=400&v=4" width="200px;" alt=""/><br /><sub><b>Ajith PM(Klepsydra Alpha)</b></sub></a><br /><a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=AJITH-klepsydra" title="Code">💻</a> <a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=AJITH-klepsydra" title="Documentation">📖</a></td>
   </tr>
 
+</table>
+
+---
+
+## License & copyright
+
+© Niranjan B 
+,Ajith PM
+
+Licensed under the [MIT License](LICENSE)
