@@ -35,7 +35,11 @@ pip install -r requirements.txt
 Line graphs are plotted using matplotlib module
 According to Provinces and Country Coresponding Graphs are produced
 
-[](rsc/1(2).png)[](rsc/1(1).png)
+<table>
+<tr>
+<td><a href="rsc/1(2).png"><img src="rsc/1(2).png" width="200px;" alt=""/><br /><sub><b>No. of Confirmed Cases</b></sub></a> </td><td> <a href="rsc/1(1).png"><img src="rsc/1(1).png" width="200px;" alt=""/><br /><sub><b>No. of Death Cases</b></sub></a></td>
+<tr>
+</table>
 
 
 ---
