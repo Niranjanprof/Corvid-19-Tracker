@@ -1,7 +1,13 @@
 # Covid Tracker 
 
+---
+## Current Tracker
+
+![Covid-19 Confirmed](https://covid19-badges.herokuapp.com/confirmed/latest)          ![Covid-19 Recovered](https://covid19-badges.herokuapp.com/recovered/latest)       ![Covid-19 Deaths](https://covid19-badges.herokuapp.com/deaths/latest)
+
+
 ___
-The Python Code for getting Track of Novel Covid Pandermic growth in all over the world
+The Python Code for getting Track of Novel Covid Pandemic growth in all over the world
 
 This Version is included with Province Filter
 
