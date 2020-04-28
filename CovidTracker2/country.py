@@ -8,15 +8,15 @@ print("Country Specific Data....................")
 country = input("Enter the Country: ").strip()
 
 # Collects Data
-request_url = url.url + 'live/country/'+country
+request_url = url.url + 'total/country/'+country
 info = requests.get(request_url)
 data = info.json()[-1]
+
 
 coordinates = dict(lat = data['Lat'],lon = data['Lon'])
 confirmed = data['Confirmed']
 deaths = data['Deaths']
 recovered = data['Recovered']
-active = data['Active']
 country_code = data['CountryCode']
 last_updated = data['Date'][:10]
 
