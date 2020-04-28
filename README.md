@@ -26,7 +26,7 @@ pip install -r requirements.txt
 |To get latest Global updates |      [latest.py](Covid-Tracker/latest.py)|``` python3 latest.py ```|
 |To get Graphs on Result |      [timeline.py](Covid-Tracker/timeline.py)|``` python3 timeline.py ```|
 |To get Updates based on Country | [country.py](Covid-Tracker/country.py)|``` python3 country.py ```|
-|To get Updates based on Provinces | [provinces.py](Covid-Tracker/provinces.py)|``` python3 provinces.py ```|
+|To get Updates based on Provinces | [province.py](Covid-Tracker/provinces.py)|``` python3 province.py ```|
 |To get Available Country list |      [countrylist.py](Covid-Tracker/countrylist.py)|``` python3 countrylist.py ```|
 |To get Available Province list |      [provincelist.py](Covid-Tracker/provincelist.py)|``` python3 provincelist.py ```|
 |Country list |      [country.txt](Covid-Tracker/country.txt)||
