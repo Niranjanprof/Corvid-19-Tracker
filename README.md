@@ -19,33 +19,8 @@ This Version is included with Province Filter
 $ pip install -r requirements.txt
 ```
 
-## Working
-
-| Result | File | command|
-|--------|------|--------|
-|To get latest Global updates |      [latest.py](Covid-Tracker/latest.py)|``` python3 latest.py ```|
-|To get Graphs on Result |      [timeline.py](Covid-Tracker/timeline.py)|``` python3 timeline.py ```|
-|To get Updates based on Country | [country.py](Covid-Tracker/country.py)|``` python3 country.py ```|
-|To get Updates based on Provinces | [province.py](Covid-Tracker/provinces.py)|``` python3 province.py ```|
-|To get Available Country list |      [countrylist.py](Covid-Tracker/countrylist.py)|``` python3 countrylist.py ```|
-|To get Available Province list |      [provincelist.py](Covid-Tracker/provincelist.py)|``` python3 provincelist.py ```|
-|Country list |      [country.txt](Covid-Tracker/country.txt)||
-|Province list |      [province.txt](Covid-Tracker/province.txt)||
-|To Convert json to dictionary | [jsontodict.py](Covid-Tracker/jsontodict.py)||
-
-
 ---
-
-## Graph Plotting
-
-Line graphs are plotted using matplotlib module
-According to Provinces and Country Coresponding Graphs are produced
-
-|![No. of Confirmed Cases](https://github.com/Niranjanprof/Covid-19-Tracker/blob/master/rsc/1%20(2).png)|![No. of Death Cases](https://github.com/Niranjanprof/Covid-19-Tracker/blob/master/rsc/1%20(1).png)|
-|------------------------|-------------------------|
-|No. of Confirmed Cases|No. of Death Cases|
-
----
+# Covid Tracker 1
 
 ## API
 
@@ -55,10 +30,86 @@ The **[Repo](https://github.com/ExpDev07/coronavirus-tracker-api)** api provider
 
 ---
 
+<ol>
+<li>Runs with slower Api</li>
+<li>Gives Province wise Details</li>
+<li>Gives Total population of a Country</li>
+</ol>
+
+---
+
+## Working
+
+| Result | File | command|
+|--------|------|--------|
+|To get latest Global updates |      [latest.py](CovidTracker1/latest.py)|``` python3 latest.py ```|
+|To get Graphs on Result |      [timeline.py](CovidTracker1/timeline.py)|``` python3 timeline.py ```|
+|To get Updates based on Country | [country.py](CovidTracker1/country.py)|``` python3 country.py ```|
+|To get Updates based on Provinces | [province.py](CovidTracker1/provinces.py)|``` python3 province.py ```|
+|To get Available Country list |      [countrylist.py](CovidTracker1/countrylist.py)|``` python3 countrylist.py ```|
+|To get Available Province list |      [provincelist.py](CovidTracker1/provincelist.py)|``` python3 provincelist.py ```|
+|Country list |      [country.txt](CovidTracker1/country.txt)||
+|Province list |      [province.txt](CovidTracker1/province.txt)||
+|To Convert json to dictionary | [jsontodict.py](CovidTracker1/jsontodict.py)||
+
+
+---
+
+
+# Covid Tracker 2
+
+## API
+
+The **[API](https://api.covid19api.com/)** we used
+
+The **[Repo](https://github.com/CSSEGISandData/COVID-19)** api provider
+
+---
+
+<ol>
+<li>Comparitively Much Faster Api</li>
+<li>No  Province wise Details</li>
+<li>No data on Total population of a Country</li>
+<li>Active Affectant data available</li>
+</ol>
+
+---
+
+## Working
+
+| Result | File | command|
+|--------|------|--------|
+|To get latest Global updates |      [latest.py](CovidTracker2/latest.py)|``` python3 latest.py ```|
+|To get Graphs on Result |      [timeline.py](CovidTracker2/timeline.py)|``` python3 timeline.py ```|
+|To get Updates based on Country | [country.py](CovidTracker2/country.py)|``` python3 country.py ```|
+|To get Available Country list |      [countrylist.py](CovidTracker2/countrylist.py)|``` python3 countrylist.py ```|
+|Country list |      [country.txt](CovidTracker2/country.txt)||
+|To Check connection ad to store url | [url.py](CovidTracker2/jsontodict.py)||
+
+
+
+---
+
+
+
+## Graph Plotting
+
+Line graphs are plotted using matplotlib module
+According to Provinces and Country Coresponding Graphs are produced
+
+|![No. of Confirmed Cases](https://github.com/Niranjanprof/Covid-19-Tracker/blob/master/rsc/1%20(2).png)|![No. of Death Cases](https://github.com/Niranjanprof/Covid-19-Tracker/blob/master/rsc/1%20(1).png)|![No. of Recoverd Cases](https://github.com/Niranjanprof/Covid-19-Tracker/blob/master/rsc/1%20(4).png)|
+|------------------------|-------------------------|------------------------|
+|No. of Confirmed Cases|No. of Death Cases|No. of Recoverd Cases|
+
+---
+
+
+
 ## Task
 
 <ul>
-  1. 'travis.yml' build status development. 
+  <li>'travis.yml' build status development.</li> 
+  <li>Adding Piechart</li> 
 </ul>
 
 ---
