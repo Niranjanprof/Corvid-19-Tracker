@@ -29,8 +29,8 @@ def confirmed(cases, country):
     y = []
     flag = 0
     for case in cases:
-        if(flag == 0):
-            if(case['Date'][:10]!='2020-03-01'):
+        if flag == 0:
+            if case['Date'][:10] != '2020-03-01':
                 continue
             else:
                 flag = 1
@@ -44,8 +44,8 @@ def death(cases, country):
     y = []
     flag = 0
     for case in cases:
-        if (flag == 0):
-            if (case['Date'][:10] != '2020-03-01'):
+        if flag == 0:
+            if case['Date'][:10] != '2020-03-01':
                 continue
             else:
                 flag = 1
@@ -59,8 +59,8 @@ def recovered(cases, country):
     y = []
     flag = 0
     for case in cases:
-        if (flag == 0):
-            if (case['Date'][:10] != '2020-03-01'):
+        if flag == 0:
+            if case['Date'][:10] != '2020-03-01':
                 continue
             else:
                 flag = 1
