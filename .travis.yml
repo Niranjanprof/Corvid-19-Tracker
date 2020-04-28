@@ -14,8 +14,13 @@ install:
   - cd Covid-Tracker
   - python3 latest.py
   - python3 timeline.py
+  - India
+  - ''
   - python3 country.py
+  - India
   - python3 province.py
+  - India
+  - ''
 # command to run tests
 script:
   - pytest
