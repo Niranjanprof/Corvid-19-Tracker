@@ -16,7 +16,7 @@ This Version is included with Province Filter
 ## Set-Up
 
 ```bash
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## Working
@@ -52,6 +52,14 @@ According to Provinces and Country Coresponding Graphs are produced
 The **[API](https://coronavirus-tracker-api.herokuapp.com/v2/locations)** we used
 
 The **[Repo](https://github.com/ExpDev07/coronavirus-tracker-api)** api provider
+
+---
+
+## Task
+
+<ul>
+  1. 'travis.yml' build status development. 
+</ul>
 
 ---
 
