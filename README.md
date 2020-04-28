@@ -1,5 +1,6 @@
 # Covid Tracker 
 
+Data Tracker
 ---
 ## Current Tracker
 
@@ -9,7 +10,9 @@
 ___
 The Python Code for getting Track of Novel Covid Pandemic growth in all over the world
 
-This Version is included with Province Filter
+__Tracks__ and __Visualize__ __data__ on patients,death,recovery in __line plots__ and __pie charts__
+
+The project has two versions working on diffrent API's choose between them according to your need
 
 ---
 
@@ -32,13 +35,22 @@ The **[Repo](https://github.com/ExpDev07/coronavirus-tracker-api)** api provider
 
 <ol>
 <li>Runs with slower Api</li>
-<li>Gives Province wise Details</li>
-<li>Gives Total population of a Country</li>
+<li>Province wise Detail-Analysis</li>
+<li>Total population of a Country is present</li>
+<li>Patient Recovery Details is not available</li>
 </ol>
 
 ---
 
 ## Working
+
+<ul>
+Refer country.txt & province.txt while giving inputs
+
+If they gets tampered run [countrylist.py](CovidTracker1/countrylist.py) , [provincelist.py](CovidTracker1/provincelist.py) respectively to regenrate them.
+
+Do the same to update the lists
+</ul>
 
 | Result | File | command|
 |--------|------|--------|
@@ -69,13 +81,23 @@ The **[Repo](https://github.com/CSSEGISandData/COVID-19)** api provider
 <ol>
 <li>Comparitively Much Faster Api</li>
 <li>No  Province wise Details</li>
+<li>Recovery number is  available</li>
 <li>No data on Total population of a Country</li>
-<li>Active Affectant data available</li>
 </ol>
 
 ---
 
 ## Working
+
+
+<ul>
+Refer country.txt while giving inputs
+
+If it gets tampered run [countrylist.py](CovidTracker2/countrylist.py) to regenrate it.
+
+Do the same to update the list
+</ul>
+
 
 | Result | File | command|
 |--------|------|--------|
@@ -94,6 +116,8 @@ The **[Repo](https://github.com/CSSEGISandData/COVID-19)** api provider
 
 ## Graph Plotting
 
+### Line plot
+
 Line graphs are plotted using matplotlib module
 According to Provinces and Country Coresponding Graphs are produced
 
@@ -105,11 +129,25 @@ According to Provinces and Country Coresponding Graphs are produced
 
 
 
+---
+
+### Pie Plot
+
+Pie charts are plotted using matplotlib.pyplot.pie function
+According to Provinces and Country and Global details Coresponding Graphs are produced
+
+
+|![Global](https://github.com/Niranjanprof/Covid-19-Tracker/blob/master/rsc/1.png)|![Country Specific](https://github.com/Niranjanprof/Covid-19-Tracker/blob/master/rsc/2.png)|![Country-Province](https://github.com/Niranjanprof/Covid-19-Tracker/blob/master/rsc/3.png)|
+|------------------------|-------------------------|------------------------|
+|Global|Country Specific|Country-Province|
+
+---
 ## Task
 
 <ul>
   <li>'travis.yml' build status development.</li> 
-  <li>Adding Piechart</li> 
+  <li>Adding Active Cases</li>
+  <li>Adding Ratio's</li> 
 </ul>
 
 ---

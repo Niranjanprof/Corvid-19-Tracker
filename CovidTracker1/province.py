@@ -1,5 +1,5 @@
 import jsontodict as info
-
+import matplotlib.pyplot as plt
 # Collects Data
 data = info.data['locations']
 
@@ -46,3 +46,13 @@ print("Cases:     ")
 print(f'Confirmed Cases: {confirmed}')
 print(f'No. of Deaths: {deaths}')
 print(f'Recovered Cases: {recovered}')
+
+
+slices=[confirmed,deaths]
+
+activities=['Confirmed Cases','No. of Deaths']
+color=['b','r']
+plt.pie(slices,labels=activities,colors=color,startangle=0,shadow=True,explode=(0,0.2),autopct='%1.2f%%')
+plt.title(country+"\n"+province)
+plt.legend(loc='best', bbox_to_anchor=(0.8, 0, 0.3, 0.2))
+plt.show()
