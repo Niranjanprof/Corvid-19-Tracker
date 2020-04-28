@@ -11,6 +11,7 @@ python:
 # command to install dependencies
 install:
   - pip install -r requirements.txt
+  - cd Covid-Tracker
   - python3 latest.py
   - python3 timeline.py
   - python3 country.py
