@@ -3,9 +3,7 @@
 Data Tracker
 ---
 ## Current Tracker
-<div class="bingwidget" data-type="covid19" data-market="en-us" data-language="en-us"></div>
-  
-<script src="//www.bing.com/widget/bootstrap.answer.js" async=""></script>
+
 
 ![Covid-19 Confirmed](https://covid19-badges.herokuapp.com/confirmed/latest)       ![Covid-19 Recovered](https://covid19-badges.herokuapp.com/recovered/latest)       ![Covid-19 Deaths](https://covid19-badges.herokuapp.com/deaths/latest)
 
