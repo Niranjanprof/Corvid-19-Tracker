@@ -47,10 +47,11 @@ for line in lines:
 
 print('Confirmed: ' + confirmed)
 print('Deaths: ' + death)
-print('Recoverd:  ' + recovered)
+print('Recovered:  ' + recovered)
+active = convert(confirmed)-convert(death)-convert(recovered)
+print('Active: '+str(active))
 
-plt.pie([convert(confirmed), convert(death), convert(recovered)], labels=['Confirmed Cases', 'No. of Deaths', 'Recoverd Cases'],
-        colors=['tab:orange', 'r', 'g'], startangle=45, shadow=True, explode=(0, 0, 0.2), autopct='%1.2f%%')
+plt.pie([convert(confirmed), convert(death), convert(recovered)], labels=['Confirmed Cases', 'No. of Deaths', 'Recoverd Cases'], colors=['tab:orange', 'r', 'g'], startangle=45, shadow=True, explode=(0, 0, 0.2), autopct='%1.2f%%')
 plt.title(country)
 plt.legend(loc='best', bbox_to_anchor=(0.8, 0, 0.3, 0.2))
 plt.show()

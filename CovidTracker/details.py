@@ -2,6 +2,8 @@ from bs4 import BeautifulSoup
 import matplotlib.pyplot as plt
 import requests
 import time
+from populations import population
+
 
 def convert(number):
     accum = 0
@@ -51,11 +53,10 @@ while True:
         if count > 10:
             break
 
-    print(rdata)
     data = [str(x) for x in rdata]
-    print(data)
     try:
         print("Country: " + country)
+        print("Population: "+population(country))
         print("Total Cases: " + data[0])
         print("New Cases: " + data[1])
         print("Total Deaths: " + data[2])
@@ -67,9 +68,10 @@ while True:
         print("Deaths/1M pop: " + data[8])
         print("TotalTests: " + data[9])
         print("Tests/1M pop: " + data[10])
-        
 
-        plt.pie([convert(data[0]), convert(data[2]), convert(data[4])], labels=['Confirmed Cases', 'No. of Deaths', 'Recoverd Cases'],colors=['tab:orange', 'r', 'g'], startangle=45, shadow=True, explode=(0, 0, 0.2), autopct='%1.2f%%')
+        plt.pie([convert(data[0]), convert(data[2]), convert(data[4])],
+                labels=['Confirmed Cases', 'No. of Deaths', 'Recoverd Cases'], colors=['tab:orange', 'r', 'g'],
+                startangle=45, shadow=True, explode=(0, 0, 0.2), autopct='%1.2f%%')
         plt.title("World-Wide")
         plt.legend(loc='best', bbox_to_anchor=(0.8, 0, 0.3, 0.2))
         plt.show()
@@ -79,4 +81,3 @@ while True:
     i = input("Do you want to run again:(y/n) ")
     if not (i.startswith('y') or i.startswith('Y')):
         break
-
