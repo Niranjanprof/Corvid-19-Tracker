@@ -4,7 +4,8 @@ Data Tracker
 ---
 ## Current Tracker
 
-![Covid-19 Confirmed](https://covid19-badges.herokuapp.com/confirmed/latest)          ![Covid-19 Recovered](https://covid19-badges.herokuapp.com/recovered/latest)       ![Covid-19 Deaths](https://covid19-badges.herokuapp.com/deaths/latest)
+
+![Covid-19 Confirmed](https://covid19-badges.herokuapp.com/confirmed/latest)       ![Covid-19 Recovered](https://covid19-badges.herokuapp.com/recovered/latest)       ![Covid-19 Deaths](https://covid19-badges.herokuapp.com/deaths/latest)
 
 
 ___
