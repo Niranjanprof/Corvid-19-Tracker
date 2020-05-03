@@ -5,7 +5,7 @@ Data Tracker
 ## Current Tracker
 
 
-![Covid-19 Confirmed](https://covid19-badges.herokuapp.com/confirmed/latest)       ![Covid-19 Recovered](https://covid19-badges.herokuapp.com/recovered/latest)       ![Covid-19 Deaths](https://covid19-badges.herokuapp.com/deaths/latest)
+![Covid-19 Confirmed](https://covid19-badges.herokuapp.com/confirmed/latest)                             ![Covid-19 Deaths](https://covid19-badges.herokuapp.com/deaths/latest)
 
 
 ___
@@ -13,7 +13,7 @@ The Python Code for getting Track of Novel Covid Pandemic growth in all over the
 
 __Tracks__ and __Visualize__ __data__ on patients,death,recovery in __line plots__ and __pie charts__
 
-The project has two versions working on diffrent API's choose between them according to your need
+The project has three versions working on 2 diffrent APIs and on web scrapping choose between them according to your need 
 
 ---
 
@@ -22,9 +22,50 @@ The project has two versions working on diffrent API's choose between them accor
 ```bash
 $ pip install -r requirements.txt
 ```
+---
+# [Covid Tracker](CovidTracker) 
+
+## Web Scrapping
+
+The **[Website](worldometers.info)** we used
+
 
 ---
-# Covid Tracker 1
+
+<ol>
+<li>Runs with Web Scrapping</li>
+<li>Fast Working</li>
+<li>Reliable data on all affected countries than other API's</li>
+<li>Total population of a Country is present</li>
+<li>Various Ratio's are available</li>
+<li>Latitude Longitude details are not available</li>
+</ol>
+
+---
+
+## Working
+
+<ul>
+Refer .txt files while giving inputs
+</ul>
+
+| Result | File | command|
+|--------|------|--------|
+|Affected Country list |      [Country.txt](CovidTracker/Country.txt)||
+|To get updates in Confirmed/Death/Recovered details of a country in a faster way |      [country.py](CovidTracker/country.py)|``` python3 country.py ```|
+|Country Url list [country.py](CovidTracker/country.py) depends on this | [countryurl.txt](CovidTracker/countryurl.txt)||
+|To get detailed Updates based on Countries like Population,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases,Serious,Critical,Tot Cases/1M pop,Deaths/1M pop,TotalTests,Tests/1M pop| [details.py](CovidTracker/details.py)|``` python3 details.py ```|
+|To get static population data works along with details.py| [population.py](CovidTracker/populations.py)|```python3 populations.py```|
+|To get Available Country list which can help you in choosing inputs for [details.py](CovidTracker/details.py)|      [filefordetails.txt](CovidTracker/filefordetails.txt)||
+|To get Latest Global data |      [latest.py](CovidTracker/latest.py)|``` python3 latest.py ```|
+|Whole Country list in the world|      [map.txt](CovidTracker/map.txt)||
+|Population list run [population.py](CovidTracker/population.py) to get this filled  |      [population.txt](CovidTracker/population.txt)||
+|To get population data | [population.py](CovidTracker/population.py)|```python3 population.py```|
+
+
+
+---
+# [Covid Tracker 1](CovidTracker1)
 
 ## API
 
@@ -69,7 +110,7 @@ Do the same to update the lists
 ---
 
 
-# Covid Tracker 2
+# [Covid Tracker 2](CovidTracker2)
 
 ## API
 
@@ -147,7 +188,7 @@ According to Provinces and Country and Global details Coresponding Graphs are pr
 
 <ul>
   <li>'travis.yml' build status development.</li> 
-  <li>Adding Active Cases</li>
+  <li>Unicode fixes</li>
   <li>Adding Ratio's</li> 
 </ul>
 
