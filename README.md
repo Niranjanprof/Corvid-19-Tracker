@@ -15,6 +15,9 @@ __Tracks__ and __Visualize__ __data__ on patients,death,recovery in __line plots
 
 The project has three versions working on 2 diffrent APIs and on web scrapping choose between them according to your need 
 
+
+The __[Abstract](Abstract)__ of this project has details about developement space of the project
+
 ---
 
 ## Set-Up
