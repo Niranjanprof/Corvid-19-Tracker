@@ -15,12 +15,10 @@ __Tracks__ and __Visualize__ __data__ on patients,death,recovery in __line plots
 
 The project has three versions working on 2 diffrent APIs and on web scrapping choose between them according to your need 
 
-<<<<<<< HEAD
 
-The __[Abstract](Abstract)__ of this project has details about developement space of the project
-=======
-The __[Abstract](rsc/Abstract Visual Covid Tracker.pdf)__ for this project
->>>>>>> b05d8a568d63163fe5fe7bfc79573700e238da73
+
+The __[Abstract](Abstract.pdf)__ of this project has details about developement space of the project
+
 
 ---
 
