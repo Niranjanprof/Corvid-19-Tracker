@@ -2,13 +2,11 @@
 
 Covid Data Tracker
 
-![Logo](https://github.com/Niranjanprof/Covid-19-Tracker/blob/master/rsc/logo.png)
 ---
-## Current Tracker
 
-
-![Covid-19 Confirmed](https://covid19-badges.herokuapp.com/confirmed/latest)                             ![Covid-19 Deaths](https://covid19-badges.herokuapp.com/deaths/latest)
-
+<div align="center">
+  <img src="https://github.com/Niranjanprof/Covid-19-Tracker/blob/master/rsc/logo.png">
+</div>
 
 ___
 The Python Code for getting Track of Novel Covid Pandemic growth in all over the world
@@ -212,14 +210,14 @@ According to Provinces and Country and Global details Coresponding Graphs are pr
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Niranjanprof"><img src="https://avatars1.githubusercontent.com/u/48713926?s=400&u=a473cb9bbbc98506ae6b55ccd2b45cfdc941d517&v=4" width="200px;" alt=""/><br /><sub><b>Niranjan B(Prof Moriarty)</b></sub></a><br /><a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=Niranjanprof" title="Code">💻</a> <a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=Niranjanprof" title="Documentation">📖</a> <a href="#maintenance-Niranjanprof" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/AJITH-klepsydra"><img src="https://avatars3.githubusercontent.com/u/62293152?s=400&v=4" width="200px;" alt=""/><br /><sub><b>Ajith PM(Klepsydra Alpha)</b></sub></a><br /><a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=AJITH-klepsydra" title="Code">💻</a> <a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=AJITH-klepsydra" title="Documentation">📖</a></td>
-  <td align="center"><a href="https://github.com/amalnathm7https://github.com/Meenakshi2604"><img src="https://avatars2.githubusercontent.com/u/64605131?s=400&u=7263b2b702f0175dff070e379d065557f6843a85&v=4" width="200px;" alt=""/><br /><sub><b>Amal Nath(Dr.Strange)</b></sub></a><br /><a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=amalnathm7" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Niranjanprof"><img src="https://avatars1.githubusercontent.com/u/48713926?s=400&u=a473cb9bbbc98506ae6b55ccd2b45cfdc941d517&v=4" width="233px;" alt=""/><br /><sub><b>Niranjan B(Prof Moriarty)</b></sub></a><br /><a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=Niranjanprof" title="Code">💻</a> <a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=Niranjanprof" title="Documentation">📖</a> <a href="#maintenance-Niranjanprof" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/AJITH-klepsydra"><img src="https://avatars3.githubusercontent.com/u/62293152?s=400&v=4" width="233px;" alt=""/><br /><sub><b>Ajith PM(Klepsydra Alpha)</b></sub></a><br /><a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=AJITH-klepsydra" title="Code">💻</a> <a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=AJITH-klepsydra" title="Documentation">📖</a></td>
+  <td align="center"><a href="https://github.com/amalnathm7https://github.com/Meenakshi2604"><img src="https://avatars2.githubusercontent.com/u/64605131?s=400&u=7263b2b702f0175dff070e379d065557f6843a85&v=4" width="233px;" alt=""/><br /><sub><b>Amal Nath(Dr.Strange)</b></sub></a><br /><a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=amalnathm7" title="Documentation">📖</a></td>
   </tr>
   <tr>
-  <td align="center"><a href="https://github.com/Meenakshi2604"><img src="https://avatars3.githubusercontent.com/u/62795103?s=400&v=4" width="200px;" alt=""/><br /><sub><b>Meenakshi Nair(Meenu)</b></sub></a><br /><a href="https://meenakshi2604.github.io/Covid-tracker/" title="Web Designer">💻</a></td>
-  <td align="center"><a href="https://github.com/Sinadin-Shibin"><img src="https://avatars3.githubusercontent.com/u/59430074?s=400&v=4" width="200px;" alt=""/><br /><sub><b>Sinadin Shibin (Skeptic)</b></sub></a><br /><a href="https://github.com/Sinadin-Shibin" title="Code">💻</a></td>
-  <td align="center"><a href="https://github.com/Dinoy-Raj"><img src="https://avatars2.githubusercontent.com/u/62199728?s=400&u=ec49e70797755f5091bcc1cd3ee60f5faaec91b6&v=4" width="200px;" alt=""/><br /><sub><b>Dinoy Raj
+  <td align="center"><a href="https://github.com/Meenakshi2604"><img src="https://avatars3.githubusercontent.com/u/62795103?s=400&v=4" width="233px;" alt=""/><br /><sub><b>Meenakshi Nair(Meenu)</b></sub></a><br /><a href="https://meenakshi2604.github.io/Covid-tracker/" title="Web Designer">💻</a></td>
+  <td align="center"><a href="https://github.com/Sinadin-Shibin"><img src="https://avatars3.githubusercontent.com/u/59430074?s=400&v=4" width="233px;" alt=""/><br /><sub><b>Sinadin Shibin (Skeptic)</b></sub></a><br /><a href="https://github.com/Sinadin-Shibin" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/Dinoy-Raj"><img src="https://avatars2.githubusercontent.com/u/62199728?s=400&u=ec49e70797755f5091bcc1cd3ee60f5faaec91b6&v=4" width="233px;" alt=""/><br /><sub><b>Dinoy Raj
 (Raj)</b></sub></a><br /><a href="https://github.com/Dinoy-Raj" title="Logo Designer">📊</a></td>
   </tr>
 
