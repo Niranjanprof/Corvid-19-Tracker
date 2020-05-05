@@ -1,6 +1,6 @@
 # Covid Tracker 
 
-Covid Data Tracker
+VisCoT : - Covid Data Tracker
 
 ---
 
