@@ -1,6 +1,8 @@
 # Covid Tracker 
 
-Data Tracker
+Covid Data Tracker
+
+![Logo](https://github.com/Niranjanprof/Covid-19-Tracker/blob/master/rsc/logo.png)
 ---
 ## Current Tracker
 
@@ -218,7 +220,7 @@ According to Provinces and Country and Global details Coresponding Graphs are pr
   <td align="center"><a href="https://github.com/Meenakshi2604"><img src="https://avatars3.githubusercontent.com/u/62795103?s=400&v=4" width="200px;" alt=""/><br /><sub><b>Meenakshi Nair(Meenu)</b></sub></a><br /><a href="https://meenakshi2604.github.io/Covid-tracker/" title="Web Designer">💻</a></td>
   <td align="center"><a href="https://github.com/Sinadin-Shibin"><img src="https://avatars3.githubusercontent.com/u/59430074?s=400&v=4" width="200px;" alt=""/><br /><sub><b>Sinadin Shibin (Skeptic)</b></sub></a><br /><a href="https://github.com/Sinadin-Shibin" title="Code">💻</a></td>
   <td align="center"><a href="https://github.com/Dinoy-Raj"><img src="https://avatars2.githubusercontent.com/u/62199728?s=400&u=ec49e70797755f5091bcc1cd3ee60f5faaec91b6&v=4" width="200px;" alt=""/><br /><sub><b>Dinoy Raj
-(Raj)</b></sub></a><br /><a href="https://github.com/Niranjanprof/Corvid-19-Tracker/commits?author=Dinoy-Raj" title="Logo Designer">📊</a></td>
+(Raj)</b></sub></a><br /><a href="https://github.com/Dinoy-Raj" title="Logo Designer">📊</a></td>
   </tr>
 
 </table>
