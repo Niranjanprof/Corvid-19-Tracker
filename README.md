@@ -2,6 +2,8 @@
 
 [![DeepSource](https://deepsource.io/gh/niranjanneeru/Covid-19-Tracker.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/niranjanneeru/Covid-19-Tracker/?ref=repository-badge)
 
+[![DeepSource](https://deepsource.io/gh/niranjanneeru/Covid-19-Tracker.svg/?label=resolved+issues&show_trend=true)](https://deepsource.io/gh/niranjanneeru/Covid-19-Tracker/?ref=repository-badge)
+
 # Covid Tracker 
 
 VisCoT : - Covid Data Tracker
