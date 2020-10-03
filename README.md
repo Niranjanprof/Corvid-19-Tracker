@@ -1,3 +1,5 @@
+<a href = "https://deepsource.io/gh/niranjanneeru/Covid-19-Tracker/"<img src="https://camo.githubusercontent.com/5e6fe50bc867e5ae50eb75750b1c6fe10a6d0288/68747470733a2f2f7374617469632e64656570736f757263652e696f2f64656570736f757263652d62616467652d6c696768742d6d696e692e737667"></a>
+
 # Covid Tracker 
 
 VisCoT : - Covid Data Tracker
