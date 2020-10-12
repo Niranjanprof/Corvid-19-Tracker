@@ -5,6 +5,7 @@ from PyQt5.QtCore import Qt
 from PyQt5.QtCore import pyqtSignal,QUrl
 import numpy as np
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg
+from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from matplotlib.backends.backend_qt5agg import NavigationToolbar2QT as NavigationToolbar
 import cv2
 from PyQt5.QtGui import QIcon, QPixmap
@@ -15,6 +16,7 @@ import requests
 from PyQt5.QtWebEngineWidgets import QWebEngineSettings, QWebEngineView, QWebEnginePage
 import url1
 import pyautogui
+import numpy as np
 import random
 
 
@@ -37,11 +39,11 @@ def draw_circle(event,x,y,flags,param):
 
 		cv2.circle(img,(x,y),10,(255,0,0),-1)
 		if(x<1079 and x>1068 and y<358 and y>348):
-		                      f=open('m.txt','w')
-		                      f.write('China')
-		                      print('China')
-		                      f.close()
-		                      pyautogui.press('esc')
+                        f=open('m.txt','w')
+                        f.write('China')
+                        print('China')
+                        f.close()
+                        pyautogui.press('esc')
 		elif(x<1001 and x>991 and y<423 and y>415):
 			f=open('m.txt','w')
 			f.write('India')
